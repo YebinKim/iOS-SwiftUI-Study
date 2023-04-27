@@ -9,3 +9,4 @@
 
 1. Creating and Combining Views ([Note🔗](https://vivi-log.notion.site/Creating-and-Combining-Views-58e686ce963348ef973b2c1c8bc32985))
 2. Building Lists and Navigation ([Note🔗](https://vivi-log.notion.site/Building-Lists-and-Navigation-bc4f902ca3e8445f9f30df70a40be1b8))
+3. Handling User Input ([Note🔗](https://vivi-log.notion.site/Handling-User-Input-ac182ce11fab4bb0a1abbb57fe10a765))
