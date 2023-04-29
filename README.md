@@ -16,3 +16,4 @@
 #### Drawing and Animation
 
 4. Drawing Paths and Shapes ([Note🔗](https://vivi-log.notion.site/Drawing-Paths-and-Shapes-83d57ddd02ea4d8b974479a34e2bdf51))
+5. Animating Views and Transitions ([Note🔗](https://vivi-log.notion.site/Animating-Views-and-Transitions-86c602568e7b4a11bbfe5b61d5d9adc5))
