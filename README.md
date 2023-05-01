@@ -23,3 +23,4 @@
 #### App Design and Layout
 
 6. Composing Complex Interfaces ([Note🔗](https://vivi-log.notion.site/Composing-Complex-Interfaces-ba7c265b9e6c41acb99e86477dfcddb5))
+7. Working with UI Controls ([Note🔗](https://vivi-log.notion.site/Working-with-UI-Controls-6efae17a903d4807a1b0114f05f095f2))
