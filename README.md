@@ -30,3 +30,4 @@
 #### Framework Integration
 
 8. Interfacing with UIKit ([Note🔗](https://vivi-log.notion.site/Interfacing-with-UIKit-e055e1cbee0846e5b35f4dd789b09204))
+9. Creating a watchOS App ([Note🔗](https://vivi-log.notion.site/Creating-a-watchOS-App-fa321dc30bf44353a16baf7485e66096))
